@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  yoctoofpsoanalytics:
+    image: yoctoofpsoanalytics
+    build:
+      context: .
+      dockerfile: ./Dockerfile
