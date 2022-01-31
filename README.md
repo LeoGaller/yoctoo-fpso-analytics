@@ -23,3 +23,5 @@ Steps:
 After connecting to the jupyter lab, open a new terminal.
 6.  In the terminal you will run the following command: 
 <code>conda install --file docker/requirements.txt</code> 
+7. After the installation, you can open the notebook <b>fpso-analysis.ipynb</b> that can be found on "docker/notebooks"
+8. Run all the commands.
